@@ -398,3 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 
 .idea/
+
+# 忽略appsettings
+appsettings.json
+appsettings.*.json
